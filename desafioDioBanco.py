@@ -56,6 +56,7 @@ while bancoContinuar:
 
     elif opcao == 3:
         print("\n============ EXTRATO =================")
+        print()
         print(extrato)
         saldo
         print(f"Saldo: R${saldo: .2f}")
